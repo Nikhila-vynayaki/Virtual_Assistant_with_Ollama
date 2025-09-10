@@ -15,8 +15,8 @@ A **Python terminal-based chatbot** powered by [Ollama](https://ollama.com/)’s
 ---
 
 ## Demo Screenshot
-![Chat Screenshot 1](images/Demo1.png)
+![Chat Screenshot 1](images/Demo2.png)
 *This screenshot shows the AI typing indicator in VS Code.*
-
-![Chat Screenshot 2](images/Demo2.png)
+&ensp;
+![Chat Screenshot 2](images/Demo1.png)
 *This screenshot shows the Ollama chatbot answering a question.*
